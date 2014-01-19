@@ -1,0 +1,40 @@
+header
+{
+    height: 120px;
+    width: 1200px;
+    margin: 0 auto;
+}
+.b1
+{
+    background-color: #f7f7f5;
+    width: 1200px;
+    height: 400px;
+    margin: 0 auto;
+}
+.b2
+{
+   background-image: url(../img/bg_1.jpg); 
+   width: 1200px;
+   height: 400px;
+   margin: 0 auto;
+}
+.b3
+{
+   background-image: url(../img/bg_2.jpg);
+   width: 1200px;
+   height: 400px;
+   margin: 0 auto;
+}
+.duni
+{
+   background-color: #f4f3f1;
+   width: 1200px;
+   height: 460px;
+   margin: 0 auto;
+}
+footer
+{
+   width: 1200px;
+   height: 330px;
+   background-color: #ffffff; 
+}
